@@ -1,0 +1,19 @@
+.btn {
+  margin: 5px;
+  text-transform: capitalize;
+}
+
+.good {
+  composes: btn;
+  background-color: lightgreen;
+}
+
+.neutral {
+  composes: btn;
+  background-color: lightgray;
+}
+
+.bad {
+  composes: btn;
+  background-color: tomato;
+}

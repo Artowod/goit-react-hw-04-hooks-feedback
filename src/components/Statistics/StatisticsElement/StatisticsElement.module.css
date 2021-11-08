@@ -1,0 +1,9 @@
+.name,
+.value {
+  text-transform: capitalize;
+}
+
+.wrapper {
+  display: block;
+  margin: 5px;
+}
